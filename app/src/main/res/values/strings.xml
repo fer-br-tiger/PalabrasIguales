@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Palabras Iguales</string>
+    <string name="primer_texto">Primer texto</string>
+    <string name="segundo_texto">Segundo Texto</string>
+</resources>
